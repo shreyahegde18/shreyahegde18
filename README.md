@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning machine learning with python
-- 😄 Pronouns: she/her
+- I’m currently in 3rd year of engineering.
+- Pronouns: she/her
 
 - [LinkedIn - ShreyaHegde](https://www.linkedin.com/in/shreya--hegde--/)
 
