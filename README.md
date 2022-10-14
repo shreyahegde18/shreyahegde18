@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there
 
-- I’m currently in 3rd year of engineering.
-- Pronouns: she/her
 
 - [LinkedIn - ShreyaHegde](https://www.linkedin.com/in/shreya--hegde--/)
 
