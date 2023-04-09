@@ -3,7 +3,7 @@
 
 - [LinkedIn - ShreyaHegde](https://www.linkedin.com/in/shreya--hegde--/)
 
-- [Twitter - ShreyaHegde](https://twitter.com/fortune_favourz)
+- [Twitter - ShreyaHegde](https://twitter.com/__shreya__hegde)
 
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreyahegde18&label=Profile%20views&color=0e75b6&style=flat" alt="vikashvsp" /> </p>
