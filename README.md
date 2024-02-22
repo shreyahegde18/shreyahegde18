@@ -26,11 +26,11 @@
 	<h4> Programming Lanauges</h4><p>
 	<img src="icons/icons8-python-96.png" alt="python" width="40" height="40" />&nbsp;
 	<img src="icons/icons8-c-96.png" alt="C" width="40" height="40" />&nbsp;
-	<img src="icons/icons8-mysql-96.png" alt="mysql" width="60" height="40" />&nbsp;
 	<img src="icons/icons8-git-96.png" alt="git" width="40" height="40" />&nbsp;
 </p>
 	<h4> Development</h4><p>
-  <img src="icons/icons8-html-96.png" alt="html" width="40" height="40" />&nbsp;
+	<img src="icons/icons8-mysql-96.png" alt="mysql" width="60" height="40" />&nbsp;
+ 	<img src="icons/icons8-html-96.png" alt="html" width="40" height="40" />&nbsp;
 	<img src="icons/icons8-css-96.png" alt="css" width="40" height="40" />&nbsp;
 	<img src="icons/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="90" height="40" />&nbsp;
 	<img src="icons/icons8-flask-64.png" alt="flask" width="40" height="40" />&nbsp;	
