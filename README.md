@@ -4,7 +4,7 @@
 
 ![github wallpaper](https://github.com/shreyahegde18/shreyahegde18/assets/106897123/d9abc59f-bc49-4390-919b-5897b52a0ab5)
 <h2 align="left">Hi there 👋, I'm Shreya Hegde</h2>
-<img src="icons/coding anime.jpg" width="30%" height="200" align="right">
+<img src="icons/coding anime.jpg" width="150" height="150" align="right">
 
 
 
