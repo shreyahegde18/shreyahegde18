@@ -4,7 +4,9 @@
 
 ![github wallpaper](https://github.com/shreyahegde18/shreyahegde18/assets/106897123/d9abc59f-bc49-4390-919b-5897b52a0ab5)
 <h2 align="left">Hi there 👋, I'm Shreya Hegde</h2>
-<img src="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753" width="30%" align="right">
+<img src="icons/coding anime.jpg" width="30%" align="right">
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-university-64.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Bachelors of Engineering @Acharya Institute of Technology, Bengaluru.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-ai-48.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Majored in Artificial Intelligence and Machine Learning.<br>
