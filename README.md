@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-university-64.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Bachelors of Engineering'24 @Acharya Institute of Technology, Bengaluru.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-ai-48.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Majored in Artificial Intelligence and Machine Learning.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-target-48.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Data Science Apprentice at Target.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/target.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Data Science Apprentice at Target.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨&nbsp;&nbsp;Passionated towards Deep Learning and Natural Language Processing.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-ai-processor-68.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Currently Exploring Generative AI.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-chess-96.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Always up for a Game of Chess.<br>
